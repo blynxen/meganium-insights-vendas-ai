@@ -1,4 +1,4 @@
-# Limpeza dos Dados
+# 🧼 Limpeza dos Dados
 
 ## ✅ Limpeza – Diagnóstico Inicial
 
