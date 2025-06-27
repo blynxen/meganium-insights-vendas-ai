@@ -1,24 +1,22 @@
-# Meganium Insights
+#Meganium Games Insights#
 
-🔹 Objetivo do Projeto
+**🎯 Objetivos do Projeto**
 
-Centralizar, analisar e transformar dados de vendas fornecidos por distribuidores em insights úteis para a fabricante de consoles, permitindo decisões estratégicas baseadas em evidência.
+Consolidar as bases de dados das diferentes plataformas de vendas (AliExpress, Etsy, Shopee).
 
-🔹 Principais Perguntas Respondidas##
+Analisar os dados de vendas para gerar insights relevantes para a fabricante.
 
-Quais produtos vendem melhor em cada país?
+_Identificar:_
 
-Como a logística pode ser otimizada com base em tempo médio de entrega e demanda?
+🕹️ Produtos mais populares.
 
-Há sazonalidade nas vendas? Quais campanhas são mais efetivas?
+🌍 Regiões que mais compram.
 
-🔹 Resultados Esperados##
+📦 Possibilidades de otimização logística e de produção com base na demanda.
 
-Redução de custo com transporte
+Manter uma estrutura clara entre dados brutos (raw_data) e dados processados (processed_data).
 
-Produção mais alinhada com demanda
+Gerar insights objetivos e sem alucinação: só com base no que existe nos dados.
 
-Melhoria no tempo de distribuição e reposição
 
-Aumento de vendas com personalização regional
 
