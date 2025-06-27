@@ -15,9 +15,11 @@ _Identificar:_
 
 📦 Possibilidades de otimização logística e de produção com base na demanda.
 
-Manter uma estrutura clara entre dados brutos (raw_data) e dados processados (processed_data).
+🎂 Público Alvo
 
-Gerar insights objetivos e sem alucinação: só com base no que existe nos dados.
+- Manter uma estrutura clara entre dados brutos (raw_data) e dados processados (processed_data).
+
+- Gerar insights objetivos e sem alucinação: só com base no que existe nos dados.
 
 
 
