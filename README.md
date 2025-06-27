@@ -51,5 +51,5 @@ Inspirado por boas práticas de **storytelling com dados** e pela abordagem prá
 
 ---
 
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
