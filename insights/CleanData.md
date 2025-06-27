@@ -14,9 +14,9 @@
 
 **Adicionar colunas derivadas úteis:**
 
-year, month da data de venda.
+- year, month da data de venda.
 
-buyer_age: idade do comprador no momento da compra.
+- buyer_age: idade do comprador no momento da compra.
 
 ## Dados prontos para análise com as seguintes melhorias:
 
@@ -24,11 +24,11 @@ buyer_age: idade do comprador no momento da compra.
 
 **🗓️ Colunas derivadas:**
 
-year: ano da venda.
+- year: ano da venda.
 
-month: mês da venda.
+- month: mês da venda.
 
-👤 buyer_age: idade estimada do comprador no momento da compra.
+- 👤 buyer_age: idade estimada do comprador no momento da compra.
 
 ## 📊 Análises Exploratórias:
 
