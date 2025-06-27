@@ -1,4 +1,4 @@
-# Avaliação de Vendas:
+# 🤑 Avaliação de Vendas:
 
 ## Os marketplaces com maior volume de vendas são:
 
