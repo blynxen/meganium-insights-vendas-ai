@@ -1,10 +1,10 @@
 # Meganium Insights
 
-##🔹 Objetivo do Projeto
+##🔹 Objetivo do Projeto##
 
 Centralizar, analisar e transformar dados de vendas fornecidos por distribuidores em insights úteis para a fabricante de consoles, permitindo decisões estratégicas baseadas em evidência.
 
-##🔹 Principais Perguntas Respondidas
+##🔹 Principais Perguntas Respondidas##
 
 Quais produtos vendem melhor em cada país?
 
@@ -12,7 +12,7 @@ Como a logística pode ser otimizada com base em tempo médio de entrega e deman
 
 Há sazonalidade nas vendas? Quais campanhas são mais efetivas?
 
-##🔹 Resultados Esperados
+##🔹 Resultados Esperados##
 
 Redução de custo com transporte
 
