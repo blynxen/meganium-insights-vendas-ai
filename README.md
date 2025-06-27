@@ -2,6 +2,7 @@
 # 🎮 Meganium Games Insights
 
 📦 Este projeto foi desenvolvido para consolidar e analisar os dados de vendas dos consoles portáteis da **Meganium Games** — uma fabricante fictícia.  
+
 O objetivo principal é transformar dados transacionais recebidos de marketplaces parceiros em **insights acionáveis** para decisões de produção e logística.
 
 ---
