@@ -1,4 +1,4 @@
-# Avaliação de Vendas:
+# 🏳️ Avaliação de Vendas:
 
 ## Países com Maior Número de Vendas:
 
