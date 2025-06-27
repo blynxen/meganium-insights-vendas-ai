@@ -11,7 +11,7 @@ Esses são os principais países por volume de vendas:
 🔵 Austrália, ⚪ Japão e ⚫ Alemanha também se destacam.
 
 
-##📊 Análises e Fórmulas
+## 📊 Análises e Fórmulas
 
 **2️⃣ Países com Maior Número de Vendas**
 
