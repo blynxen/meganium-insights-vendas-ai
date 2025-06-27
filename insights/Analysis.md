@@ -41,3 +41,15 @@
 4. Perfil dos compradores (idade, país).
 
 5. Impacto dos cupons e descontos.
+
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
+
+- Linguagem: Python
+
+**Bibliotecas:**
+
+- pandas – para manipulação e análise de dados tabulares.
+
+- datetime – para cálculo de idade.
+
+- ace_tools.display_dataframe_to_user() – usado pela IA para apresentar as tabelas de forma interativa na interface.
