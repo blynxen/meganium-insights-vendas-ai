@@ -1,4 +1,4 @@
-# Avaliação de Vendas:
+# 💲 Avaliação de Vendas:
 
 ## Os produtos mais vendidos ordenados por quantidade total:
 
