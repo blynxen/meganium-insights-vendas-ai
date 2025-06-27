@@ -18,6 +18,16 @@
 
 - buyer_age: idade do comprador no momento da compra.
 
+**Conversão de datas:**
+
+       pd.to_datetime(df['date'], errors='coerce')
+       
+**Criação de colunas derivadas:**
+
+      df['month'] = df['date'].dt.month
+      df['year'] = df['date'].dt.year
+
+
 ## Dados prontos para análise com as seguintes melhorias:
 
 **✅ Datas convertidas corretamente (date, buyer_birth_date).**
