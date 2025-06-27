@@ -1,4 +1,4 @@
-# Avaliação de Público Alvo:
+# 🎯 Avaliação de Público Alvo:
 
 ## O perfil dos compradores por país, com base nas vendas:
 
